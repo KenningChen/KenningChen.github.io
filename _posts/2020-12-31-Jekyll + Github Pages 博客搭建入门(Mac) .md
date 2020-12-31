@@ -9,7 +9,7 @@ tags:
   - 技术
 ---
 
-参考自https://www.jianshu.com/p/9f198d5779e6
+参考自<url>https://www.jianshu.com/p/9f198d5779e6
 
 mac环境下brew command not found:
 在mac输入命令安装brew
@@ -43,7 +43,8 @@ brew 下载成功
  brew install wget 
  <br>
  <br>
- nvm install --lts安装最新的官方长期支持的node版本
+ nvm install --lts安装最新的官方长期支持的node版本 (<font color=red>貌似这个不需要</font>)
+
  
  由于网络墙的问题，需要换源:
  <br>
