@@ -19,15 +19,16 @@ mac环境下brew command not found:
 
 `curl: (7) Failed to connect to raw.githubusercontent.com port 443: Connection refused`
 
-* 第一种解决方法：
+ 第一种解决方法：
+ 
 设置mac的DNS为114.114.114.114或者8.8.8.8
 本人测试 无效果 还是无法打开
 
-* 第二种解决方法(<font color=red>需要翻墙</font>)：
+第二种解决方法(<font color=red>需要翻墙</font>)：
+ 
 `/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
-brew 下载成功
----
- 通过 brew 下载 wget：
+
+brew 下载成功</br>通过 brew 下载 wget：
  先申请权限
  sudo chown -R $(whoami):admin /usr/local
  再下载
