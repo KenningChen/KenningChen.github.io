@@ -26,7 +26,7 @@ mac环境下brew command not found:
 * 第二种解决方法(<font color=red>需要翻墙</font>)：
 `/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
 brew 下载成功
-
+---
  通过 brew 下载 wget：
  先申请权限
  sudo chown -R $(whoami):admin /usr/local
