@@ -9,7 +9,7 @@ tags:
   - 技术
 ---
 
-参考自<url>https://www.jianshu.com/p/9f198d5779e6
+参考自https://www.jianshu.com/p/9f198d5779e6
 
 mac环境下brew command not found:
 在mac输入命令安装brew
